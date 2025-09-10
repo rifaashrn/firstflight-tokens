@@ -3,12 +3,10 @@
 **Author:** Rifa Sherin  
 **Tech:** Next.js, React, PostgreSQL, Prisma, Node.js  
 
----
 
 ## Overview
 A simple web app to manage courier tokens. Customers can generate tokens for Pickup, Delivery, or Inquiry, each with a QR code. Staff can view and manage tokens in real-time.  
 
----
 
 ## Features
 **Customer Page:**  
@@ -25,7 +23,6 @@ A simple web app to manage courier tokens. Customers can generate tokens for Pic
 - PostgreSQL stores tokens  
 - Prisma for DB connection
 
----
 
 ## How to Run
 ```bash
